@@ -1,4 +1,4 @@
 http://localhost:8081/chat?q=how can you help me?
 
 # First commit to Spring AI test with open ai API
-# then add as run environment "OPEN_AI_KEY=..."
+# then add as run environment "OPEN_API_KEY=..."
