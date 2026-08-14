@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: first-project
+#api key for open AI
+  ai:
+    openai:
+      api-key: ${OPENAI_API_KEY}
+
+      chat:
+        model: gpt-5-mini
+        temperature: 0.2
+
+
+
+server.port: 8081
+
+
+
